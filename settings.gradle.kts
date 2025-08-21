@@ -21,6 +21,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BaseProject2025"
+rootProject.name = "CICD_Guide"
 include(":app")
  

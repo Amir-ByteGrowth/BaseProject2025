@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.baseproject2025"
+    namespace = "com.example.cicd"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {

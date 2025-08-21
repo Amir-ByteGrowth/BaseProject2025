@@ -9,7 +9,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.baseproject2025.ui.activity.MainViewModel" />
+            type="com.example.cicd.ui.activity.MainViewModel" />
 
     </data>
 
